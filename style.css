@@ -5,3 +5,15 @@
 html {
   scroll-behavior: smooth;
 }
+
+
+section {
+  height:75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
