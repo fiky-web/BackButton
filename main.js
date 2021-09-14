@@ -1,3 +1,7 @@
+<!-- Tutorial HTML -->
+<!-- By: Fiky Anggara-->
+<!-- Enjoy -->
+
 const toTop = document.querySelector(".to-top");
 window.addEventListener("scroll", () => {
   if (window.pageYOffset > 100) {
