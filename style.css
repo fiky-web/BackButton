@@ -27,4 +27,9 @@ section {
 .section4 {
   background: #22a6b3;
 }
+.to-top {
+  background: white;
+  position: fixed;
+  bottom: 16px;
+}
 
