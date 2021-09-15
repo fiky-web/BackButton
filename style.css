@@ -52,3 +52,9 @@ section {
   pointer-events: none;
   transition: all .4s;
 }
+
+.to-top.active {
+  bottom:32px;
+  pointer-events: auto;
+  opacity:1;
+}
